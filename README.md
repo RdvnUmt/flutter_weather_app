@@ -52,7 +52,4 @@ flutter run
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ## İletişim
-
-[Adınız] - [@twitter_handle](https://twitter.com/twitter_handle) - email@example.com
-
-Proje Linki: [https://github.com/[kullanıcı-adınız]/flutter_weather_app](https://github.com/[kullanıcı-adınız]/flutter_weather_app)
+Proje Linki: [https://github.com/RdvnUmt/flutter_weather_app]
